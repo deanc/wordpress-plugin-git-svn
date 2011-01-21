@@ -1,7 +1,7 @@
 # main config
 CURRENTDIR=`pwd`
 CURRENTVERSION=`cat version.txt`
-MAINFILE="wotforblogs.php" # this should be the name of your main php file in the wordpress plugin
+MAINFILE="plugin-file-name.php" # this should be the name of your main php file in the wordpress plugin
 
 # git config
 GITPATH="/path/to/wordpress/wp-content/plugins/plugin-name/" # this should be the path to your git repository (trailing slash required)
